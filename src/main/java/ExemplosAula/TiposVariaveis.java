@@ -5,7 +5,7 @@ public class TiposVariaveis {
         short idade = 34;
         short anoNasimento = 1988;
         boolean bissexto = false;
-        char primeiraLetra = P;
+        char primeiraLetra = 'p';
         String bandeira = "Visa";
         float dolar = 5.69F;
         long popBrasil = 209_000_000;
